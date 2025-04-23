@@ -9,10 +9,10 @@ import './App.css'
 export default function App() {
   return (
     <div>
-      <h1>Student Management System</h1>
-      <p>Manage your student records efficiently</p>
+      
     <Router>
       <nav>
+      <h1>Random Number generator</h1>
         <Link to="/">Home</Link>
         <Link to="/register">Register</Link>
         <Link to="/login">Login</Link>

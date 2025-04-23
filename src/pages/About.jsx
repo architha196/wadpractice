@@ -1,8 +1,7 @@
 export default function About() {
   return (
     <div className="page">
-      <h1>About Our System</h1>
-      <p>This student management system helps schools manage student records.</p>
+      <p>This webpage shows the implementation of generating a single random number between 1 to 100</p>
     </div>
   )
 }
